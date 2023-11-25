@@ -18,7 +18,7 @@
     <script src="https://code.jquery.com/jquery-latest.js"></script>
 
     <!-- CSS -->
-    <link rel="stylesheet" href="./asset/TrangChu.css">
+    <link rel="stylesheet" href="./asset/Home.css">
     <link rel="stylesheet" href="./asset/header_footer_responsive.css">
 
 </head>
@@ -35,7 +35,7 @@
     <!-- start header -->
     <header id="header_container">
         <div class="header__logo">
-            <a href="./TrangChu.php" class="logo__a">
+            <a href="./Home.php" class="logo__a">
                 <svg id="svg-logo" height="80" width="162">
                     <ellipse cx="80" cy="40" rx="80" ry="30" style="fill:rgb(82, 184, 117)"></ellipse>
                     <text fill="#ffffff" font-size="40" font-family="Verdana" x="24" y="55">Orga</text>
@@ -45,7 +45,7 @@
 
         <div class="navbar" id="navbar_menu">
             <ul class="navbar__ul">
-                <li class="navbar__li"><a class="navbar__a" href="./TrangChu.php">Trang chủ</a></li>
+                <li class="navbar__li"><a class="navbar__a" href="./Home.php">Trang chủ</a></li>
                 <li class="navbar__li"><a class="navbar__a" href="./GioiThieu.php">Giới thiệu</a></li>
                 <li class="navbar__li"><a class="navbar__a" href="./LienHe.php">Liên hệ</a></li>
                 <li class="navbar__li navbar__dropdown "><a id="drop_content_a" class="navbar__a">Sản phẩm <i

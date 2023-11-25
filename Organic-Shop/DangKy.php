@@ -47,7 +47,7 @@ if($_SERVER["REQUEST_METHOD"]=="POST"){
     <script src="https://code.jquery.com/jquery-latest.js"></script>
 
     <!-- CSS -->
-    <link rel="stylesheet" href="./asset/TrangChu.css">
+    <link rel="stylesheet" href="./asset/Home.css">
     <!-- <link rel="stylesheet" href="./asset/DangNhap.css"> -->
     <link rel="stylesheet" href="./asset/DangKy.css">
     <link rel="stylesheet" href="./asset/header_footer_responsive.css">

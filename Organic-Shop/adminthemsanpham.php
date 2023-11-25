@@ -92,7 +92,7 @@ require_once "config/db.php";
                             <td><?php echo $row['brand_name']; ?></td>
                             <td>
                             <td>
-                                <a href="index.php?page_layout=sua&id=<?php echo $row['prd_id']; ?>">Sửa</a>
+                                <a href="indexx.php?page_layout=sua&id=<?php echo $row['prd_id']; ?>">Sửa</a>
                             </td>
                             <td>
                                 <a onclick="return Del('<?php echo $row ['prd_name']; ?>')" href="adminthemsanpham.php?id=<?php echo $row['prd_id']?>">Xóa</a>
@@ -103,7 +103,7 @@ require_once "config/db.php";
                    
                 </tbody>
             </table>
-            <a class="btn btn-primary"href="index.php?page_layout=them">Thêm mới</a>
+            <a class="btn btn-primary"href="indexx.php?page_layout=them">Thêm mới</a>
         </div>
     </div>
 </div>

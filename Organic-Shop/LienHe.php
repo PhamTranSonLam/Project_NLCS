@@ -17,7 +17,7 @@
 
     <!-- CSS -->
     <!-- css header && footer -->
-    <link rel="stylesheet" href="./asset/TrangChu.css">
+    <link rel="stylesheet" href="./asset/Home.css">
     <!-- css header && footer reponsive -->
     <link rel="stylesheet" href="./asset/header_footer_responsive.css">
 

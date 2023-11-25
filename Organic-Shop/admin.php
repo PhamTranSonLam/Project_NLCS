@@ -51,7 +51,7 @@ if(isset($_GET["id"])){
                             <th scope="col">username</th>
                             <th scope="col">email</th>
                             <th scope="col">age</th>
-                            <th scope="col">xoa</th>
+                            <th scope="col">Xóa</th>
 
                             <th></th>
                             </tr>
